@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xamir07
+- 👋 Hi, I’m Samir Ali Sk
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently studying in Lovely Professional University
 - 💞️ I’m looking to collaborate on projects of web designing and python programming.
